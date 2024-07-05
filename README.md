@@ -1,0 +1,1 @@
+If you haven't worked with PureScript before and you want to run my tests or play around with my solution, please check out the getting started guide [here](https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md).
