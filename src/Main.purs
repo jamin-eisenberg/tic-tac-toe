@@ -69,7 +69,7 @@ rows :: Selector
 rows (Board cells) = cells
 
 columns :: Selector
-columns (Board cells) = rows $ Board $ transpose cells
+columns (Board cells) = transpose cells
 
 diagonals :: Selector
 diagonals (Board cells) =
